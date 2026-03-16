@@ -1,0 +1,9 @@
+﻿  aes_demo.cpp
+  hash_demo.cpp
+  main.cpp
+  utils.cpp
+C:\Users\Denis\source\repos\crypto_demo\crypto_demo\aes_demo.cpp(1,10): error C1083: Не удается открыть файл включение: ../include/aes_demo.h: No such file or directory,
+C:\Users\Denis\source\repos\crypto_demo\crypto_demo\hash_demo.cpp(1,10): error C1083: Не удается открыть файл включение: ../include/hash_demo.h: No such file or directory,
+C:\Users\Denis\source\repos\crypto_demo\crypto_demo\main.cpp(1,10): error C1083: Не удается открыть файл включение: ../include/hash_demo.h: No such file or directory,
+C:\Users\Denis\source\repos\crypto_demo\crypto_demo\utils.cpp(1,10): error C1083: Не удается открыть файл включение: ../include/utils.h: No such file or directory,
+  Создание кода...
